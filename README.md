@@ -6,3 +6,5 @@ Technologies used:
 
 ####Lab One - Linear Regression with One and More Variables
 ####Lab Two - Logistic Regression
+####Lab Three - Neural Networks: Representation
+####Lab Four - neural Networks: Learning
